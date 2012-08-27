@@ -1,0 +1,702 @@
+2012-08-10 10:21:47,491 INFO [main] no.bekk.mightycrawler.Report - Creating reports
+2012-08-10 10:21:47,937 INFO [main] no.bekk.mightycrawler.Crawler - Starting up...
+2012-08-10 10:21:53,356 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/
+2012-08-10 10:21:53,358 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 0
+2012-08-10 10:21:53,374 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/, urls added to queue: 21
+2012-08-10 10:21:53,641 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122419/site-manager%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122419/site-manager%283%29
+2012-08-10 10:21:53,642 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:53,657 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/shared/styles/confluence.css?_ts=125d297d933, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/shared/styles/confluence.css?_ts=125d297d933
+2012-08-10 10:21:53,658 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:53,664 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/print.css?_ts=123d216f8b7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/print.css?_ts=123d216f8b7
+2012-08-10 10:21:53,664 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:53,686 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122423/developer-2-xslt-development%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122423/developer-2-xslt-development%284%29
+2012-08-10 10:21:53,687 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:53,917 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil
+2012-08-10 10:21:53,918 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:53,921 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil, urls added to queue: 3
+2012-08-10 10:21:53,940 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122421/developer-1-site-configuration%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122421/developer-1-site-configuration%284%29
+2012-08-10 10:21:53,940 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:53,962 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122417/content-manager%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122417/content-manager%284%29
+2012-08-10 10:21:53,963 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:54,099 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/rss, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/rss
+2012-08-10 10:21:54,099 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:54,102 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/rss, urls added to queue: 1
+2012-08-10 10:21:54,140 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1359%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1359%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7
+2012-08-10 10:21:54,141 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:54,329 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart
+2012-08-10 10:21:54,330 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:54,333 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart, urls added to queue: 1
+2012-08-10 10:21:55,141 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden
+2012-08-10 10:21:55,148 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,153 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden, urls added to queue: 0
+2012-08-10 10:21:55,167 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122426/hosting%282%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122426/hosting%282%29
+2012-08-10 10:21:55,167 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,173 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/screen.css?_ts=1370da2e78a, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/screen.css?_ts=1370da2e78a
+2012-08-10 10:21:55,175 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,494 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt
+2012-08-10 10:21:55,495 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,497 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt, urls added to queue: 1
+2012-08-10 10:21:55,513 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122420/developer-1-site-configuration%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122420/developer-1-site-configuration%283%29
+2012-08-10 10:21:55,514 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,521 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/shared/images/favicon.ico?_ts=1332025bf7f, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/shared/images/favicon.ico?_ts=1332025bf7f
+2012-08-10 10:21:55,521 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,539 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122422/developer-2-xslt-development%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122422/developer-2-xslt-development%283%29
+2012-08-10 10:21:55,539 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,557 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122418/site-manager%282%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122418/site-manager%282%29
+2012-08-10 10:21:55,558 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,575 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122424/developer-3-integrations-and-plugins%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122424/developer-3-integrations-and-plugins%283%29
+2012-08-10 10:21:55,575 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,676 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet
+2012-08-10 10:21:55,676 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,678 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet, urls added to queue: 0
+2012-08-10 10:21:55,694 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122416/content-manager%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122416/content-manager%283%29
+2012-08-10 10:21:55,695 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:21:55,705 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1667%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1667%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7
+2012-08-10 10:21:55,706 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:21:55,786 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd
+2012-08-10 10:21:55,787 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:21:55,789 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd, urls added to queue: 0
+2012-08-10 10:21:55,885 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg
+2012-08-10 10:21:55,886 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:21:55,888 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg, urls added to queue: 0
+2012-08-10 10:21:55,909 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1385%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1385%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7
+2012-08-10 10:21:55,909 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:21:55,920 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1386%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1386%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7
+2012-08-10 10:21:55,920 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:21:55,930 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1900%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1900%3A1603&_ticket=E0F4C2D0E6D568947F664B3D87D9D8A7
+2012-08-10 10:21:55,931 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:21:57,941 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 9
+2012-08-10 10:21:57,941 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:21:57,941 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:21:57,941 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:22:07,942 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 9
+2012-08-10 10:22:07,942 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:22:07,942 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:22:07,942 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:22:17,943 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 9
+2012-08-10 10:22:17,943 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:22:17,943 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:22:17,943 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:22:25,932 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Stopping, no new URLs processed within 30 seconds.
+2012-08-10 10:22:25,932 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Visit queue size was: 0
+2012-08-10 10:22:25,932 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Cancelling 0 queued visits.
+2012-08-10 10:22:27,944 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 9
+2012-08-10 10:22:27,944 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:22:27,944 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:22:27,944 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:22:27,945 INFO [main] no.bekk.mightycrawler.Report - Create report, logDir: ./reports/cms-46ce-unstable-enonic_vtnode2_8080/, reportList size= 10
+2012-08-10 10:22:27,954 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,956 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,957 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,959 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,960 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,961 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,961 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,962 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,963 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:27,964 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:22:28,096 INFO [main] no.bekk.mightycrawler.Crawler - Crawling finished.
+2012-08-10 10:30:16,753 INFO [main] no.bekk.mightycrawler.Report - Creating reports
+2012-08-10 10:30:17,127 INFO [main] no.bekk.mightycrawler.Crawler - Starting up...
+2012-08-10 10:30:18,142 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://admin:password@vtnode2:8080/cms-46ce-unstable-enonic/site/41/, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/
+2012-08-10 10:30:18,144 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 0
+2012-08-10 10:30:18,159 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/, urls added to queue: 0
+2012-08-10 10:30:27,131 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:30:27,132 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:30:27,132 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:30:27,132 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:30:37,133 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:30:37,133 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:30:37,133 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:30:37,133 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:30:47,134 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:30:47,135 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:30:47,135 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:30:47,135 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:30:48,149 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Stopping, no new URLs processed within 30 seconds.
+2012-08-10 10:30:48,149 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Visit queue size was: 0
+2012-08-10 10:30:48,149 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Cancelling 0 queued visits.
+2012-08-10 10:30:57,136 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:30:57,136 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:30:57,137 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:30:57,137 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:30:57,138 INFO [main] no.bekk.mightycrawler.Report - Create report, logDir: ./reports/cms-46ce-unstable-enonic_vtnode2_8080/, reportList size= 10
+2012-08-10 10:30:57,151 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,151 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,152 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,154 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,155 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,155 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,156 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,157 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,157 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,158 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:30:57,244 INFO [main] no.bekk.mightycrawler.Crawler - Crawling finished.
+2012-08-10 10:31:00,596 INFO [main] no.bekk.mightycrawler.Report - Creating reports
+2012-08-10 10:31:00,968 INFO [main] no.bekk.mightycrawler.Crawler - Starting up...
+2012-08-10 10:31:02,234 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 0
+2012-08-10 10:31:02,250 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://admin:password@vtnode2:8080/cms-46ce-unstable-enonic/site/41/, urls added to queue: 0
+2012-08-10 10:31:10,972 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:31:10,972 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:31:10,973 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:31:10,973 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:31:20,973 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:31:20,973 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:31:20,973 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:31:20,973 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:31:30,973 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:31:30,974 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:31:30,974 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:31:30,974 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:31:32,238 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Stopping, no new URLs processed within 30 seconds.
+2012-08-10 10:31:32,238 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Visit queue size was: 0
+2012-08-10 10:31:32,238 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Cancelling 0 queued visits.
+2012-08-10 10:31:40,975 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 1
+2012-08-10 10:31:40,976 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:31:40,976 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:31:40,976 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:31:40,977 INFO [main] no.bekk.mightycrawler.Report - Create report, logDir: ./reports/cms-46ce-unstable-enonic_vtnode2_8080/, reportList size= 10
+2012-08-10 10:31:40,990 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,991 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,992 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,993 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,994 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,995 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,995 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,996 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,996 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:40,997 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:31:41,078 INFO [main] no.bekk.mightycrawler.Crawler - Crawling finished.
+2012-08-10 10:55:29,915 INFO [main] no.bekk.mightycrawler.Report - Creating reports
+2012-08-10 10:55:30,294 INFO [main] no.bekk.mightycrawler.Crawler - Starting up...
+2012-08-10 10:55:31,028 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/
+2012-08-10 10:55:31,030 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 0
+2012-08-10 10:55:31,046 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/, urls added to queue: 25
+2012-08-10 10:55:31,067 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122419/site-manager%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122419/site-manager%283%29
+2012-08-10 10:55:31,068 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,195 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin
+2012-08-10 10:55:31,196 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,200 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin, urls added to queue: 1
+2012-08-10 10:55:31,201 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/shared/styles/confluence.css?_ts=125d297d933, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/shared/styles/confluence.css?_ts=125d297d933
+2012-08-10 10:55:31,202 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,212 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122421/developer-1-site-configuration%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122421/developer-1-site-configuration%284%29
+2012-08-10 10:55:31,213 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,265 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil
+2012-08-10 10:55:31,265 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,269 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil, urls added to queue: 3
+2012-08-10 10:55:31,276 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122417/content-manager%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122417/content-manager%284%29
+2012-08-10 10:55:31,277 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,281 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/screen.css?_ts=1370da2e78a, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/screen.css?_ts=1370da2e78a
+2012-08-10 10:55:31,282 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,405 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt
+2012-08-10 10:55:31,406 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:31,409 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt, urls added to queue: 1
+2012-08-10 10:55:31,416 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122418/site-manager%282%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122418/site-manager%282%29
+2012-08-10 10:55:31,417 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,358 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/kvalitetssystem, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/kvalitetssystem/iso-9001
+2012-08-10 10:55:32,362 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,373 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122416/content-manager%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122416/content-manager%283%29
+2012-08-10 10:55:32,374 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,379 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/print.css?_ts=123d216f8b7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/print.css?_ts=123d216f8b7
+2012-08-10 10:55:32,379 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,389 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122423/developer-2-xslt-development%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122423/developer-2-xslt-development%284%29
+2012-08-10 10:55:32,390 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,448 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/rss, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/rss
+2012-08-10 10:55:32,448 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,451 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/rss, urls added to queue: 1
+2012-08-10 10:55:32,524 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart
+2012-08-10 10:55:32,525 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,530 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart, urls added to queue: 35
+2012-08-10 10:55:32,844 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden
+2012-08-10 10:55:32,861 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,866 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden, urls added to queue: 0
+2012-08-10 10:55:32,983 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked
+2012-08-10 10:55:32,984 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:32,987 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked, urls added to queue: 1
+2012-08-10 10:55:32,995 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122426/hosting%282%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122426/hosting%282%29
+2012-08-10 10:55:32,996 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,006 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122420/developer-1-site-configuration%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122420/developer-1-site-configuration%283%29
+2012-08-10 10:55:33,007 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,138 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema
+2012-08-10 10:55:33,139 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,142 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: [undefined]:, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, error: java.lang.IllegalArgumentException
+2012-08-10 10:55:33,142 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, urls added to queue: 1
+2012-08-10 10:55:33,150 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122422/developer-2-xslt-development%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122422/developer-2-xslt-development%283%29
+2012-08-10 10:55:33,150 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,156 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/shared/images/favicon.ico?_ts=1332025bf7f, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/shared/images/favicon.ico?_ts=1332025bf7f
+2012-08-10 10:55:33,156 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,164 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1359%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1359%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6
+2012-08-10 10:55:33,164 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,174 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122424/developer-3-integrations-and-plugins%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122424/developer-3-integrations-and-plugins%283%29
+2012-08-10 10:55:33,174 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,230 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet
+2012-08-10 10:55:33,231 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 10:55:33,233 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet, urls added to queue: 0
+2012-08-10 10:55:33,240 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1360%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1360%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6
+2012-08-10 10:55:33,240 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:33,289 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd
+2012-08-10 10:55:33,290 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:33,292 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd, urls added to queue: 0
+2012-08-10 10:55:33,339 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg
+2012-08-10 10:55:33,339 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:33,341 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg, urls added to queue: 0
+2012-08-10 10:55:33,348 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1667%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1667%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6
+2012-08-10 10:55:33,348 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:33,370 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1900%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1900%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6
+2012-08-10 10:55:33,371 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:33,378 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1385%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1385%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6
+2012-08-10 10:55:33,379 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:34,834 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-eac, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-eac
+2012-08-10 10:55:34,838 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:34,853 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-eac, urls added to queue: 1
+2012-08-10 10:55:35,299 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus
+2012-08-10 10:55:35,300 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:35,302 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus, urls added to queue: 1
+2012-08-10 10:55:35,453 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter/ukerapport, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/ukerapport
+2012-08-10 10:55:35,454 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:35,457 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/ukerapport, urls added to queue: 3
+2012-08-10 10:55:35,586 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/timeskjema, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema
+2012-08-10 10:55:35,588 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:35,590 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: [undefined]:, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, error: java.lang.IllegalArgumentException
+2012-08-10 10:55:35,591 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, urls added to queue: 0
+2012-08-10 10:55:35,663 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/overtidsmat, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/overtidsmat
+2012-08-10 10:55:35,664 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:35,667 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/overtidsmat, urls added to queue: 1
+2012-08-10 10:55:35,765 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/personalh%C3%A5ndbok, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/personalh%C3%A5ndbok
+2012-08-10 10:55:35,766 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:35,767 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/personalh%C3%A5ndbok, urls added to queue: 1
+2012-08-10 10:55:35,835 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/timeskjema/regler-for-timef%C3%B8ring, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema/regler-for-timef%C3%B8ring
+2012-08-10 10:55:35,835 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:35,837 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema/regler-for-timef%C3%B8ring, urls added to queue: 1
+2012-08-10 10:55:36,084 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/konsulent, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/konsulent
+2012-08-10 10:55:36,085 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:36,087 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/konsulent, urls added to queue: 1
+2012-08-10 10:55:36,330 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/salg-marked, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/salg-marked
+2012-08-10 10:55:36,331 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:36,335 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/salg-marked, urls added to queue: 1
+2012-08-10 10:55:36,414 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc
+2012-08-10 10:55:36,414 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:36,416 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc, urls added to queue: 1
+2012-08-10 10:55:36,699 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc/diskusjon, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/diskusjon
+2012-08-10 10:55:36,700 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:36,701 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/diskusjon, urls added to queue: 1
+2012-08-10 10:55:36,822 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ledergruppen, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ledergruppen
+2012-08-10 10:55:36,822 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:36,824 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ledergruppen, urls added to queue: 1
+2012-08-10 10:55:36,963 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-frokostseminar, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-frokostseminar
+2012-08-10 10:55:36,964 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:36,965 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-frokostseminar, urls added to queue: 1
+2012-08-10 10:55:37,182 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/ferie/feriekalender, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/feriekalender
+2012-08-10 10:55:37,183 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:37,186 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/feriekalender, urls added to queue: 1
+2012-08-10 10:55:37,804 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/kvalitetssystem/iso-9001, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/kvalitetssystem/iso-9001
+2012-08-10 10:55:37,807 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:37,935 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/administrasjon, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/administrasjon
+2012-08-10 10:55:37,936 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:37,937 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/administrasjon, urls added to queue: 1
+2012-08-10 10:55:38,110 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/styret, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/styret
+2012-08-10 10:55:38,112 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:38,115 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/styret, urls added to queue: 1
+2012-08-10 10:55:38,263 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/ferie/alle-ferier, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/alle-ferier
+2012-08-10 10:55:38,264 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:38,268 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/alle-ferier, urls added to queue: 1
+2012-08-10 10:55:38,591 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil
+2012-08-10 10:55:38,592 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:38,595 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: [undefined]:, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil, error: java.lang.IllegalArgumentException
+2012-08-10 10:55:38,596 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil, urls added to queue: 1
+2012-08-10 10:55:38,800 ERROR [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Error fetching page at : http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc/vitsegenerator, org.apache.http.conn.HttpHostConnectException: Connection to http://www.heinzz.com refused
+2012-08-10 10:55:38,800 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:38,801 ERROR [Thread-4] no.bekk.mightycrawler.DownloadManager - Error waiting for download workers: java.lang.NullPointerException
+2012-08-10 10:55:39,160 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r/alle-frav%C3%A6rsmeldinger, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r/alle-frav%C3%A6rsmeldinger
+2012-08-10 10:55:39,161 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:39,162 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r/alle-frav%C3%A6rsmeldinger, urls added to queue: 1
+2012-08-10 10:55:39,774 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/wiki, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/wiki
+2012-08-10 10:55:39,778 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:39,852 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss
+2012-08-10 10:55:39,853 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:39,854 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss, urls added to queue: 1
+2012-08-10 10:55:39,862 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1386%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1386%3A1603&_ticket=1EEE09B7F76AA4E347F7F22FFE5539D6
+2012-08-10 10:55:39,862 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:40,291 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte
+2012-08-10 10:55:40,292 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:40,294 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte, urls added to queue: 1
+2012-08-10 10:55:40,298 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 33
+2012-08-10 10:55:40,298 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 33
+2012-08-10 10:55:40,298 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:55:40,298 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:55:40,461 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc/hssc-id%C3%A8bank, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/hssc-id%C3%A8bank
+2012-08-10 10:55:40,462 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:40,464 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/hssc-id%C3%A8bank, urls added to queue: 1
+2012-08-10 10:55:40,611 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus
+2012-08-10 10:55:40,612 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:40,613 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus, urls added to queue: 0
+2012-08-10 10:55:40,774 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/ferie, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie
+2012-08-10 10:55:40,775 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:40,777 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie, urls added to queue: 1
+2012-08-10 10:55:40,920 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r
+2012-08-10 10:55:40,920 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:40,921 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r, urls added to queue: 1
+2012-08-10 10:55:41,017 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-avd, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-avd
+2012-08-10 10:55:41,019 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:41,021 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-avd, urls added to queue: 1
+2012-08-10 10:55:41,081 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked/nedlasting, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/nedlasting
+2012-08-10 10:55:41,082 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:41,083 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/nedlasting, urls added to queue: 1
+2012-08-10 10:55:41,442 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/nyttige-telefonnummer, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/nyttige-telefonnummer
+2012-08-10 10:55:41,443 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:41,446 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/nyttige-telefonnummer, urls added to queue: 1
+2012-08-10 10:55:41,551 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/drift, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/drift
+2012-08-10 10:55:41,552 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 10:55:41,555 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/drift, urls added to queue: 1
+2012-08-10 10:55:50,299 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:55:50,299 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 32
+2012-08-10 10:55:50,299 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:55:50,299 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:00,299 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:56:00,300 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 32
+2012-08-10 10:56:00,300 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:56:00,300 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:10,301 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:56:10,301 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 32
+2012-08-10 10:56:10,301 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:56:10,301 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:11,554 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Stopping, no new URLs processed within 30 seconds.
+2012-08-10 10:56:11,554 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Visit queue size was: 32
+2012-08-10 10:56:11,554 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Cancelling 32 queued visits.
+2012-08-10 10:56:20,302 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:56:20,302 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:56:20,302 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:56:20,302 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:30,303 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:56:30,303 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:56:30,303 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:56:30,303 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:40,304 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:56:40,304 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:56:40,304 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:56:40,304 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:50,305 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:56:50,305 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:56:50,306 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:56:50,306 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:56:57,338 ERROR [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Error fetching page at : http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/reiseregning-og-refusjoner, org.apache.http.conn.HttpHostConnectException: Connection to http://ansatt.myvisma.no refused
+2012-08-10 10:57:00,306 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 41
+2012-08-10 10:57:00,306 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 10:57:00,307 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 10:57:00,307 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 10:57:00,308 INFO [main] no.bekk.mightycrawler.Report - Create report, logDir: ./reports/cms-46ce-unstable-enonic_vtnode2_8080/, reportList size= 10
+2012-08-10 10:57:00,321 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,323 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,325 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,328 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,329 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,330 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,331 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,333 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,334 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,335 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 10:57:00,512 INFO [main] no.bekk.mightycrawler.Crawler - Crawling finished.
+2012-08-10 13:03:09,085 INFO [main] no.bekk.mightycrawler.Report - Creating reports
+2012-08-10 13:03:09,475 INFO [main] no.bekk.mightycrawler.Crawler - Starting up...
+2012-08-10 13:03:10,670 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/
+2012-08-10 13:03:10,673 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 0
+2012-08-10 13:03:10,694 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/, urls added to queue: 35
+2012-08-10 13:03:10,752 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122419/site-manager%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122419/site-manager%283%29
+2012-08-10 13:03:10,753 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:10,905 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin
+2012-08-10 13:03:10,905 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:10,910 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin, urls added to queue: 7
+2012-08-10 13:03:10,911 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/shared/styles/confluence.css?_ts=125d297d933, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/shared/styles/confluence.css?_ts=125d297d933
+2012-08-10 13:03:10,911 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,490 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.9-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.9-released
+2012-08-10 13:03:14,491 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,496 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.9-released, urls added to queue: 9
+2012-08-10 13:03:14,506 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122421/developer-1-site-configuration%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122421/developer-1-site-configuration%284%29
+2012-08-10 13:03:14,506 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,589 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil
+2012-08-10 13:03:14,590 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,592 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil, urls added to queue: 3
+2012-08-10 13:03:14,604 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122417/content-manager%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122417/content-manager%284%29
+2012-08-10 13:03:14,605 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,610 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/screen.css?_ts=1370da2e78a, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/screen.css?_ts=1370da2e78a
+2012-08-10 13:03:14,611 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,828 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt
+2012-08-10 13:03:14,829 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,832 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt, urls added to queue: 3
+2012-08-10 13:03:14,975 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.7-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.7-released
+2012-08-10 13:03:14,976 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:14,979 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.7-released, urls added to queue: 0
+2012-08-10 13:03:14,991 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122418/site-manager%282%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122418/site-manager%282%29
+2012-08-10 13:03:14,991 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:15,116 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/enonic-cms-demokit-4.5.1-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/enonic-cms-demokit-4.5.1-released
+2012-08-10 13:03:15,117 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:15,119 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/enonic-cms-demokit-4.5.1-released, urls added to queue: 2
+2012-08-10 13:03:15,251 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.8-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.8-released
+2012-08-10 13:03:15,252 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:15,255 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.8-released, urls added to queue: 0
+2012-08-10 13:03:16,183 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/kvalitetssystem, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/kvalitetssystem/iso-9001
+2012-08-10 13:03:16,186 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,308 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.6ce-milestone-2, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.6ce-milestone-2
+2012-08-10 13:03:16,309 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,311 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.6ce-milestone-2, urls added to queue: 1
+2012-08-10 13:03:16,322 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122416/content-manager%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122416/content-manager%283%29
+2012-08-10 13:03:16,323 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,329 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/print.css?_ts=123d216f8b7, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/Enonic+intranett/styles/print.css?_ts=123d216f8b7
+2012-08-10 13:03:16,329 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,462 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.4-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.4-released
+2012-08-10 13:03:16,463 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,465 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.4-released, urls added to queue: 0
+2012-08-10 13:03:16,476 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122423/developer-2-xslt-development%284%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122423/developer-2-xslt-development%284%29
+2012-08-10 13:03:16,476 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,494 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1359%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1359%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:16,495 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,624 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.5-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.5-released
+2012-08-10 13:03:16,625 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,628 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.5-released, urls added to queue: 0
+2012-08-10 13:03:16,709 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/rss, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/rss
+2012-08-10 13:03:16,709 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,711 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/rss, urls added to queue: 1
+2012-08-10 13:03:16,818 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart
+2012-08-10 13:03:16,819 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:16,824 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/nettstedskart, urls added to queue: 29
+2012-08-10 13:03:17,270 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden
+2012-08-10 13:03:17,276 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,279 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden, urls added to queue: 0
+2012-08-10 13:03:17,587 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked
+2012-08-10 13:03:17,588 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,590 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked, urls added to queue: 9
+2012-08-10 13:03:17,689 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.6.0-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.6.0-released
+2012-08-10 13:03:17,689 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,691 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.6.0-released, urls added to queue: 0
+2012-08-10 13:03:17,702 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122426/hosting%282%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122426/hosting%282%29
+2012-08-10 13:03:17,702 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,713 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122420/developer-1-site-configuration%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122420/developer-1-site-configuration%283%29
+2012-08-10 13:03:17,714 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,949 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema
+2012-08-10 13:03:17,950 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,952 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: [undefined]:, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, error: java.lang.IllegalArgumentException
+2012-08-10 13:03:17,952 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, urls added to queue: 1
+2012-08-10 13:03:17,962 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122422/developer-2-xslt-development%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122422/developer-2-xslt-development%283%29
+2012-08-10 13:03:17,963 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:17,968 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_public/shared/images/favicon.ico?_ts=1332025bf7f, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_public/shared/images/favicon.ico?_ts=1332025bf7f
+2012-08-10 13:03:17,968 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:18,076 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.2-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.2-released
+2012-08-10 13:03:18,077 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:18,078 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.2-released, urls added to queue: 0
+2012-08-10 13:03:18,185 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.3-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.3-released
+2012-08-10 13:03:18,186 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:18,188 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.3-released, urls added to queue: 0
+2012-08-10 13:03:18,200 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/122424/developer-3-integrations-and-plugins%283%29, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/122424/developer-3-integrations-and-plugins%283%29
+2012-08-10 13:03:18,201 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:18,274 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet
+2012-08-10 13:03:18,274 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 1
+2012-08-10 13:03:18,276 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/tjenester/kursvirksomhet, urls added to queue: 0
+2012-08-10 13:03:18,421 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-avd, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-avd
+2012-08-10 13:03:18,421 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:18,424 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-avd, urls added to queue: 1
+2012-08-10 13:03:18,503 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc
+2012-08-10 13:03:18,504 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:18,505 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc, urls added to queue: 1
+2012-08-10 13:03:18,605 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/nyttige-telefonnummer, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/nyttige-telefonnummer
+2012-08-10 13:03:18,606 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:18,610 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/nyttige-telefonnummer, urls added to queue: 1
+2012-08-10 13:03:18,616 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1360%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1360%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:18,617 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:19,227 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/wiki, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/wiki
+2012-08-10 13:03:19,230 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:19,314 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/personalh%C3%A5ndbok, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/personalh%C3%A5ndbok
+2012-08-10 13:03:19,314 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:19,316 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/personalh%C3%A5ndbok, urls added to queue: 1
+2012-08-10 13:03:19,399 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss
+2012-08-10 13:03:19,400 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:19,402 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss, urls added to queue: 1
+2012-08-10 13:03:19,479 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 25
+2012-08-10 13:03:19,479 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 62
+2012-08-10 13:03:19,479 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:03:19,479 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:03:19,526 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/87099/enonic-cms-4.4.0-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/87099/enonic-cms-4.4.0-released
+2012-08-10 13:03:19,527 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:19,528 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/87099/enonic-cms-4.4.0-released, urls added to queue: 0
+2012-08-10 13:03:19,731 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.5-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.5-released
+2012-08-10 13:03:19,732 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:19,736 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.5-released, urls added to queue: 0
+2012-08-10 13:03:21,396 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.6-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.6-released
+2012-08-10 13:03:21,408 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:21,410 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.6-released, urls added to queue: 0
+2012-08-10 13:03:21,661 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.3-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.3-released
+2012-08-10 13:03:21,662 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:21,665 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.3-released, urls added to queue: 0
+2012-08-10 13:03:21,773 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.2-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.2-released
+2012-08-10 13:03:21,774 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:21,777 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.2-released, urls added to queue: 0
+2012-08-10 13:03:21,784 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1361%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1361%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:21,785 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:21,891 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.1-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.1-released
+2012-08-10 13:03:21,891 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:21,893 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.1-released, urls added to queue: 0
+2012-08-10 13:03:22,001 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.4-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.4-released
+2012-08-10 13:03:22,002 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,003 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.4.4-released, urls added to queue: 0
+2012-08-10 13:03:22,115 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/90918/perfect-cache-in-enonic-cms-4.4, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/90918/perfect-cache-in-enonic-cms-4.4
+2012-08-10 13:03:22,116 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,117 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/90918/perfect-cache-in-enonic-cms-4.4, urls added to queue: 0
+2012-08-10 13:03:22,176 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd
+2012-08-10 13:03:22,177 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,178 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=pwd, urls added to queue: 0
+2012-08-10 13:03:22,235 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg
+2012-08-10 13:03:22,236 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,238 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/forsiden/min-profil?mode=reg, urls added to queue: 0
+2012-08-10 13:03:22,245 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1667%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1667%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:22,246 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,346 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.1-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.1-released
+2012-08-10 13:03:22,347 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,348 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.1-released, urls added to queue: 0
+2012-08-10 13:03:22,356 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1900%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1900%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:22,357 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,512 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt?index=10, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt?index=10
+2012-08-10 13:03:22,513 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,514 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt?index=10, urls added to queue: 3
+2012-08-10 13:03:22,645 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.0-released, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.0-released
+2012-08-10 13:03:22,647 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:22,648 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/produkt/utvikling/enonic-cms-4.5.0-released, urls added to queue: 1
+2012-08-10 13:03:22,657 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_attachment/112410/binary/49879?download=true, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_attachment/112410/binary/49879?download=true
+2012-08-10 13:03:28,882 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,057 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/116007/enonic-cms-plugins, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/116007/enonic-cms-plugins
+2012-08-10 13:03:29,059 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,060 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: {portal:createUrl(@path)}, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/116007/enonic-cms-plugins, error: java.lang.IllegalArgumentException
+2012-08-10 13:03:29,061 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/116007/enonic-cms-plugins, urls added to queue: 0
+2012-08-10 13:03:29,069 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1385%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1385%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:29,070 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,337 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-eac, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-eac
+2012-08-10 13:03:29,340 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,343 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-eac, urls added to queue: 1
+2012-08-10 13:03:29,480 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 40
+2012-08-10 13:03:29,481 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 47
+2012-08-10 13:03:29,481 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:03:29,481 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:03:29,588 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus
+2012-08-10 13:03:29,589 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,590 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus, urls added to queue: 1
+2012-08-10 13:03:29,722 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter/ukerapport, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/ukerapport
+2012-08-10 13:03:29,722 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,725 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/ukerapport, urls added to queue: 3
+2012-08-10 13:03:29,861 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/timeskjema, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema
+2012-08-10 13:03:29,862 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,864 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: [undefined]:, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, error: java.lang.IllegalArgumentException
+2012-08-10 13:03:29,864 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema, urls added to queue: 0
+2012-08-10 13:03:29,937 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/overtidsmat, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/overtidsmat
+2012-08-10 13:03:29,938 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:29,948 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/overtidsmat, urls added to queue: 1
+2012-08-10 13:03:30,015 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/timeskjema/regler-for-timef%C3%B8ring, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema/regler-for-timef%C3%B8ring
+2012-08-10 13:03:30,016 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,017 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/timeskjema/regler-for-timef%C3%B8ring, urls added to queue: 1
+2012-08-10 13:03:30,026 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1386%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/_services/user/logout?_instanceKey=WINDOW%3A1386%3A1603&_ticket=B6346A2DF3F8D57212083AF19AD07614
+2012-08-10 13:03:30,026 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,212 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/konsulent, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/konsulent
+2012-08-10 13:03:30,213 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,215 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/konsulent, urls added to queue: 1
+2012-08-10 13:03:30,385 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/salg-marked, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/salg-marked
+2012-08-10 13:03:30,386 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,388 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/salg-marked, urls added to queue: 1
+2012-08-10 13:03:30,520 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc/diskusjon, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/diskusjon
+2012-08-10 13:03:30,520 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,522 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/diskusjon, urls added to queue: 1
+2012-08-10 13:03:30,620 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ledergruppen, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ledergruppen
+2012-08-10 13:03:30,621 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,623 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ledergruppen, urls added to queue: 1
+2012-08-10 13:03:30,715 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-frokostseminar, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-frokostseminar
+2012-08-10 13:03:30,716 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,717 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/p%C3%A5melding-til-frokostseminar, urls added to queue: 1
+2012-08-10 13:03:30,852 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/ferie/feriekalender, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/feriekalender
+2012-08-10 13:03:30,853 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:30,854 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/feriekalender, urls added to queue: 1
+2012-08-10 13:03:31,474 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/kvalitetssystem/iso-9001, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/kvalitetssystem/iso-9001
+2012-08-10 13:03:31,478 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:31,595 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/administrasjon, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/administrasjon
+2012-08-10 13:03:31,596 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:31,598 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/administrasjon, urls added to queue: 1
+2012-08-10 13:03:31,693 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/styret, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/styret
+2012-08-10 13:03:31,694 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:31,695 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/styret, urls added to queue: 1
+2012-08-10 13:03:31,947 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil
+2012-08-10 13:03:31,948 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:31,950 WARN [Thread-5] no.bekk.mightycrawler.URLManager - Could not normalize url: [undefined]:, base url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil, error: java.lang.IllegalArgumentException
+2012-08-10 13:03:31,950 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/fakturert-hittil, urls added to queue: 1
+2012-08-10 13:03:32,250 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/ferie/alle-ferier, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/alle-ferier
+2012-08-10 13:03:32,251 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:32,252 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie/alle-ferier, urls added to queue: 1
+2012-08-10 13:03:32,435 ERROR [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Error fetching page at : http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc/vitsegenerator, org.apache.http.conn.HttpHostConnectException: Connection to http://www.heinzz.com refused
+2012-08-10 13:03:32,435 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:32,435 ERROR [Thread-4] no.bekk.mightycrawler.DownloadManager - Error waiting for download workers: java.lang.NullPointerException
+2012-08-10 13:03:32,600 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r/alle-frav%C3%A6rsmeldinger, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r/alle-frav%C3%A6rsmeldinger
+2012-08-10 13:03:32,600 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:32,602 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r/alle-frav%C3%A6rsmeldinger, urls added to queue: 1
+2012-08-10 13:03:32,918 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte
+2012-08-10 13:03:32,922 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:32,925 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte, urls added to queue: 28
+2012-08-10 13:03:33,027 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/esc/hssc-id%C3%A8bank, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/hssc-id%C3%A8bank
+2012-08-10 13:03:33,028 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:33,029 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/esc/hssc-id%C3%A8bank, urls added to queue: 1
+2012-08-10 13:03:33,178 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus
+2012-08-10 13:03:33,179 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:33,180 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/rapporter/prosjektstatus, urls added to queue: 0
+2012-08-10 13:03:33,298 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/ferie, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie
+2012-08-10 13:03:33,299 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:33,300 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/ferie, urls added to queue: 1
+2012-08-10 13:03:33,404 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r
+2012-08-10 13:03:33,405 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:33,406 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/edna/frav%C3%A6r, urls added to queue: 1
+2012-08-10 13:03:33,471 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/salg-marked/nedlasting, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/nedlasting
+2012-08-10 13:03:33,472 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:33,473 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/salg-marked/nedlasting, urls added to queue: 1
+2012-08-10 13:03:33,554 INFO [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Redirected. Original url: http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/drift, final url: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/drift
+2012-08-10 13:03:33,554 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Recursion level: 2
+2012-08-10 13:03:33,556 INFO [Thread-5] no.bekk.mightycrawler.URLManager - Page: http://vtnode2/cms-46ce-unstable-enonic/site/41/admin/om-oss/ansatte/drift, urls added to queue: 1
+2012-08-10 13:03:39,481 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:03:39,481 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 71
+2012-08-10 13:03:39,481 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:03:39,481 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:03:49,482 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:03:49,482 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 71
+2012-08-10 13:03:49,482 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:03:49,482 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:03:59,483 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:03:59,483 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 71
+2012-08-10 13:03:59,483 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:03:59,483 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:04:03,556 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Stopping, no new URLs processed within 30 seconds.
+2012-08-10 13:04:03,556 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Visit queue size was: 71
+2012-08-10 13:04:03,556 INFO [Thread-4] no.bekk.mightycrawler.DownloadManager - Cancelling 71 queued visits.
+2012-08-10 13:04:09,484 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:04:09,484 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 13:04:09,484 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:04:09,484 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:04:19,485 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:04:19,485 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 13:04:19,485 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:04:19,485 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:04:29,485 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:04:29,485 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 13:04:29,485 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:04:29,485 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:04:39,486 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:04:39,486 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 13:04:39,486 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:04:39,486 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:04:49,342 ERROR [pool-2-thread-1] no.bekk.mightycrawler.DownloadWorker - Error fetching page at : http://vtnode2:8080/cms-46ce-unstable-enonic/site/41/edna/reiseregning-og-refusjoner, org.apache.http.conn.HttpHostConnectException: Connection to http://ansatt.myvisma.no refused
+2012-08-10 13:04:49,487 INFO [main] no.bekk.mightycrawler.Crawler - Downloaded resources: 63
+2012-08-10 13:04:49,487 INFO [main] no.bekk.mightycrawler.Crawler - Visit queue size: 0
+2012-08-10 13:04:49,487 INFO [main] no.bekk.mightycrawler.Crawler - Parse queue size: 0
+2012-08-10 13:04:49,487 INFO [main] no.bekk.mightycrawler.Crawler - Storage queue size: 0
+2012-08-10 13:04:49,487 INFO [main] no.bekk.mightycrawler.Report - Create report, logDir: ./reports/cms-46ce-unstable-enonic_vtnode2_8080/, reportList size= 10
+2012-08-10 13:04:49,496 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,498 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,502 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,505 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,506 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,508 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,509 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,511 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,513 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,514 INFO [main] no.bekk.mightycrawler.Report - Printing reports
+2012-08-10 13:04:49,610 INFO [main] no.bekk.mightycrawler.Crawler - Crawling finished.
