@@ -20,6 +20,6 @@ GUI Mode
 
 NON-GUI Mode
 --------
-5. Run the ./run_noGUI mode, specifying url-file and number of threads. You will probably also have to modify parameters: 
+5. Run the ./run_noGUI mode, specifying url-file and number of threads. You will probably also have to modify these parameters to suit your needs: 
  * "url-loop-count" : how many of the lines in the url files you will run through each loop
  * "thread-loop-count": how many times to run the loop
